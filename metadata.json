@@ -1,0 +1,7 @@
+{
+  "name": "Handwritten Exam OCR & Evaluator",
+  "description": "A sophisticated tool for extracting handwritten responses from exam papers, segmenting questions, and evaluating OCR accuracy using CER and WER metrics. It handles complex handwriting features like cancellations, insertions, and preserves original spelling.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
